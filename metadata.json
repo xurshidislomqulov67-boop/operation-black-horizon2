@@ -1,0 +1,6 @@
+{
+  "name": "OPERATION: BLACK HORIZON",
+  "description": "Tactical First-Person Shooter — Mission 01: Nightfall in Kashgar. Built with Three.js 3D ballistics, NVG stealth, tactical breaching, and UE5 C++/Blueprint architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
